@@ -1,0 +1,35 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#box {
+  text-align: center;
+  cursor: pointer;
+  background: lightseagreen;
+  padding: 40px;
+  width: 200px;
+  margin: auto;
+}
+
+#container {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#container button {
+  text-align: center;
+  background: lightcoral;
+  padding: 10px 20px;
+  width: 100px;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+p {
+  color: tomato;
+}

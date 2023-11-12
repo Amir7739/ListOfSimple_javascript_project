@@ -1,0 +1,20 @@
+.google-div {
+    text-align: center;
+}
+
+.google-logo {
+    width: 300px;
+
+
+}
+
+.google-com {
+    margin-left: 10px;
+
+    width: 700px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border-style: solid;
+}
